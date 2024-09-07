@@ -1,1 +1,3 @@
-const reda = 4;
+const reda = 4; 
+
+console.log(reda);
