@@ -1,3 +1,3 @@
 const reda = 4; 
 
-console.log(reda);
+console.log(reda)
